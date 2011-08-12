@@ -1,0 +1,9 @@
+Filezilla Site Grabber
+
+Author: Derek Chafin
+Compatibility:
+Tested with FileZilla 3.5.0
+
+Loads a Filezilla Xml export file and prompts you to choose individual 
+sites to export. This is useful for sys admins that cant give everybody 
+all the keys but dont want to edit the xml file by hand.
