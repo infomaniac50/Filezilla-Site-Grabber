@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("FilezillaXMLSiteGrabber")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Triad Media")]
+[assembly: AssemblyCompany("Derek Chafin")]
 [assembly: AssemblyProduct("FilezillaXMLSiteGrabber")]
-[assembly: AssemblyCopyright("Copyright © Triad Media 2011")]
+[assembly: AssemblyCopyright("Copyright © Derek Chafin 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
